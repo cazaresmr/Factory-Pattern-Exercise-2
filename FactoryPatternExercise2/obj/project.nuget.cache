@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Dq7OsLlsII6hB7mzWxDOpr7ZxyACt8mzwMxDtQ8MHFDRhf+nGJfFdGdOrTLvo6MzsMrcxZ1T5cHozWCRNBvMyQ==",
+  "dgSpecHash": "SbR3EjfLh+h+UfEDMMZOd8a7zDSWnSwiF8ZRHpOLOncJY5rM489CI6tKZRvbdiwL817NLp9C4569J7VuS95oTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\FactoryPatternExercise2\\FactoryPatternExercise2\\FactoryPatternExercise2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern-Exercise-2/FactoryPatternExercise2/FactoryPatternExercise2.csproj",
+  "expectedPackageFiles": [
+    "/Users/cazaresmr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/cazaresmr/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/cazaresmr/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
